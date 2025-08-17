@@ -1,0 +1,15 @@
+{
+  "name": "soccer-game",
+  "version": "1.0.0",
+  "description": "Simple soccer game for web",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "license": "MIT"
+}
